@@ -1,4 +1,4 @@
-# Pytorch-Tutorial-By-Bhupeshwar-Pathania
+# Pytorch Tutorial By Bhupeshwar Pathania
 
 PyTorch is defined as an open source machine learning library for Python.
 It is used for applications such as natural language processing. 
